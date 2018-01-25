@@ -1,0 +1,48 @@
+0011 Legislators
+0012 Senior government managers and officials
+0013 Senior managers - financial, communications and other business services
+0014 Senior managers - health, education, social and community services and membership organizations
+0015 Senior managers - trade, broadcasting and other services, n.e.c.
+0016 Senior managers - construction, transportation, production and utilities
+0111 Financial managers
+0112 Human resources managers
+0113 Purchasing managers
+0114 Other administrative services managers
+0121 Insurance, real estate and financial brokerage managers
+0122 Banking, credit and other investment managers
+0124 Advertising, marketing and public relations managers
+0125 Other business services managers
+0131 Telecommunication carriers managers
+0132 Postal and courier services managers
+0211 Engineering managers
+0212 Architecture and science managers
+0213 Computer and information systems managers
+0311 Managers in health care
+0411 Government managers - health and social policy development and program administration
+0412 Government managers - economic analysis, policy development and program administration
+0413 Government managers - education policy development and program administration
+0414 Other managers in public administration
+0421 Administrators - post-secondary education and vocational training
+0422 School principals and administrators of elementary and secondary education
+0423 Managers in social, community and correctional services
+0431 Commissioned police officers
+0432 Fire chiefs and senior firefighting officers
+0433 Commissioned officers of the Canadian Armed Forces
+0511 Library, archive, museum and art gallery managers
+0512 Managers - publishing, motion pictures, broadcasting and performing arts
+0513 Recreation, sports and fitness program and service directors
+0601 Corporate sales managers
+0621 Retail and wholesale trade managers
+0631 Restaurant and food service managers
+0632 Accommodation service managers
+0651 Managers in customer and personal services, n.e.c.
+0711 Construction managers
+0712 Home building and renovation managers
+0714 Facility operation and maintenance managers
+0731 Managers in transportation
+0811 Managers in natural resources production and fishing
+0821 Managers in agriculture
+0822 Managers in horticulture
+0823 Managers in aquaculture
+0911 Manufacturing managers
+0912 Utilities managers

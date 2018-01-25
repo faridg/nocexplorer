@@ -1,0 +1,38 @@
+4011 University professors and lecturers
+4012 Post-secondary teaching and research assistants
+4021 College and other vocational instructors
+4031 Secondary school teachers
+4032 Elementary school and kindergarten teachers
+4033 Educational counsellors
+4111 Judges
+4112 Lawyers and Quebec notaries
+4151 Psychologists
+4152 Social workers
+4153 Family, marriage and other related counsellors
+4154 Professional occupations in religion
+4155 Probation and parole officers and related occupations
+4156 Employment counsellors
+4161 Natural and applied science policy researchers, consultants and program officers
+4162 Economists and economic policy researchers and analysts
+4163 Business development officers and marketing researchers and consultants
+4164 Social policy researchers, consultants and program officers
+4165 Health policy researchers, consultants and program officers
+4166 Education policy researchers, consultants and program officers
+4167 Recreation, sports and fitness policy researchers, consultants and program officers
+4168 Program officers unique to government
+4169 Other professional occupations in social science, n.e.c.
+4211 Paralegal and related occupations
+4212 Social and community service workers
+4214 Early childhood educators and assistants
+4215 Instructors of persons with disabilities
+4216 Other instructors
+4217 Other religious occupations
+4311 Police officers (except commissioned)
+4312 Firefighters
+4313 Non-commissioned ranks of the Canadian Armed Forces
+4411 Home child care providers
+4412 Home support workers, housekeepers and related occupations
+4413 Elementary and secondary school teacher assistants
+4421 Sheriffs and bailiffs
+4422 Correctional service officers
+4423 By-law enforcement and other regulatory officers, n.e.c.

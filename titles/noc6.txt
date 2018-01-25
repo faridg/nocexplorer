@@ -1,0 +1,54 @@
+6211 Retail sales supervisors
+6221 Technical sales specialists - wholesale trade
+6222 Retail and wholesale buyers
+6231 Insurance agents and brokers
+6232 Real estate agents and salespersons
+6235 Financial sales representatives
+6311 Food service supervisors
+6312 Executive housekeepers
+6313 Accommodation, travel, tourism and related services supervisors
+6314 Customer and information services supervisors
+6315 Cleaning supervisors
+6316 Other services supervisors
+6321 Chefs
+6322 Cooks
+6331 Butchers, meat cutters and fishmongers - retail and wholesale
+6332 Bakers
+6341 Hairstylists and barbers
+6342 Tailors, dressmakers, furriers and milliners
+6343 Shoe repairers and shoemakers
+6344 Jewellers, jewellery and watch repairers and related occupations
+6345 Upholsterers
+6346 Funeral directors and embalmers
+6411 Sales and account representatives - wholesale trade (non-technical)
+6421 Retail salespersons
+6511 Maîtres d'hôtel and hosts/hostesses
+6512 Bartenders
+6513 Food and beverage servers
+6521 Travel counsellors
+6522 Pursers and flight attendants
+6523 Airline ticket and service agents
+6524 Ground and water transport ticket agents, cargo service representatives and related clerks
+6525 Hotel front desk clerks
+6531 Tour and travel guides
+6532 Outdoor sport and recreational guides
+6533 Casino occupations
+6541 Security guards and related security service occupations
+6551 Customer services representatives - financial institutions
+6552 Other customer and information services representatives
+6561 Image, social and other personal consultants
+6562 Estheticians, electrologists and related occupations
+6563 Pet groomers and animal care workers
+6564 Other personal service occupations
+6611 Cashiers
+6621 Service station attendants
+6622 Store shelf stockers, clerks and order fillers
+6623 Other sales related occupations
+6711 Food counter attendants, kitchen helpers and related support occupations
+6721 Support occupations in accommodation, travel and facilities set-up services
+6722 Operators and attendants in amusement, recreation and sport
+6731 Light duty cleaners
+6732 Specialized cleaners
+6733 Janitors, caretakers and building superintendents
+6741 Dry cleaning, laundry and related occupations
+6742 Other service support occupations, n.e.c.

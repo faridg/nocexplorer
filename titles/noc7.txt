@@ -1,0 +1,80 @@
+7201 Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations
+7202 Contractors and supervisors, electrical trades and telecommunications occupations
+7203 Contractors and supervisors, pipefitting trades
+7204 Contractors and supervisors, carpentry trades
+7205 Contractors and supervisors, other construction trades, installers, repairers and servicers
+7231 Machinists and machining and tooling inspectors
+7232 Tool and die makers
+7233 Sheet metal workers
+7234 Boilermakers
+7235 Structural metal and platework fabricators and fitters
+7236 Ironworkers
+7237 Welders and related machine operators
+7241 Electricians (except industrial and power system)
+7242 Industrial electricians
+7243 Power system electricians
+7244 Electrical power line and cable workers
+7245 Telecommunications line and cable workers
+7246 Telecommunications installation and repair workers
+7247 Cable television service and maintenance technicians
+7251 Plumbers
+7252 Steamfitters, pipefitters and sprinkler system installers
+7253 Gas fitters
+7271 Carpenters
+7272 Cabinetmakers
+7281 Bricklayers
+7282 Concrete finishers
+7283 Tilesetters
+7284 Plasterers, drywall installers and finishers and lathers
+7291 Roofers and shinglers
+7292 Glaziers
+7293 Insulators
+7294 Painters and decorators (except interior decorators)
+7295 Floor covering installers
+7301 Contractors and supervisors, mechanic trades
+7302 Contractors and supervisors, heavy equipment operator crews
+7303 Supervisors, printing and related occupations
+7304 Supervisors, railway transport operations
+7305 Supervisors, motor transport and other ground transit operators
+7311 Construction millwrights and industrial mechanics
+7312 Heavy-duty equipment mechanics
+7313 Heating, refrigeration and air conditioning mechanics
+7314 Railway carmen/women
+7315 Aircraft mechanics and aircraft inspectors
+7316 Machine fitters
+7318 Elevator constructors and mechanics
+7321 Automotive service technicians, truck and bus mechanics and mechanical repairers
+7322 Motor vehicle body repairers
+7331 Oil and solid fuel heating mechanics
+7332 Appliance servicers and repairers
+7333 Electrical mechanics
+7334 Motorcycle, all-terrain vehicle and other related mechanics
+7335 Other small engine and small equipment repairers
+7361 Railway and yard locomotive engineers
+7362 Railway conductors and brakemen/women
+7371 Crane operators
+7372 Drillers and blasters - surface mining, quarrying and construction
+7373 Water well drillers
+7381 Printing press operators
+7384 Other trades and related occupations, n.e.c.
+7441 Residential and commercial installers and servicers
+7442 Waterworks and gas maintenance workers
+7444 Pest controllers and fumigators
+7445 Other repairers and servicers
+7451 Longshore workers
+7452 Material handlers
+7511 Transport truck drivers
+7512 Bus drivers, subway operators and other transit operators
+7513 Taxi and limousine drivers and chauffeurs
+7514 Delivery and courier service drivers
+7521 Heavy equipment operators (except crane)
+7522 Public works maintenance equipment operators and related workers
+7531 Railway yard and track maintenance workers
+7532 Water transport deck and engine room crew
+7533 Boat and cable ferry operators and related occupations
+7534 Air transport ramp attendants
+7535 Other automotive mechanical installers and servicers
+7611 Construction trades helpers and labourers
+7612 Other trades helpers and labourers
+7621 Public works and maintenance labourers
+7622 Railway and motor transport labourers

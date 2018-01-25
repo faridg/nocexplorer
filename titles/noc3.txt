@@ -1,0 +1,37 @@
+3011 Nursing co-ordinators and supervisors
+3012 Registered nurses and registered psychiatric nurses
+3111 Specialist physicians
+3112 General practitioners and family physicians
+3113 Dentists
+3114 Veterinarians
+3121 Optometrists
+3122 Chiropractors
+3124 Allied primary health practitioners
+3125 Other professional occupations in health diagnosing and treating
+3131 Pharmacists
+3132 Dietitians and nutritionists
+3141 Audiologists and speech-language pathologists
+3142 Physiotherapists
+3143 Occupational therapists
+3144 Other professional occupations in therapy and assessment
+3211 Medical laboratory technologists
+3212 Medical laboratory technicians and pathologists' assistants
+3213 Animal health technologists and veterinary technicians
+3214 Respiratory therapists, clinical perfusionists and cardiopulmonary technologists
+3215 Medical radiation technologists
+3216 Medical sonographers
+3217 Cardiology technologists and electrophysiological diagnostic technologists, n.e.c.
+3219 Other medical technologists and technicians (except dental health)
+3221 Denturists
+3222 Dental hygienists and dental therapists
+3223 Dental technologists, technicians and laboratory assistants
+3231 Opticians
+3232 Practitioners of natural healing
+3233 Licensed practical nurses
+3234 Paramedical occupations
+3236 Massage therapists
+3237 Other technical occupations in therapy and assessment
+3411 Dental assistants
+3413 Nurse aides, orderlies and patient service associates
+3414 Other assisting occupations in support of health services
+

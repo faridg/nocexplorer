@@ -1,0 +1,24 @@
+8211 Supervisors, logging and forestry
+8221 Supervisors, mining and quarrying
+8222 Contractors and supervisors, oil and gas drilling and services
+8231 Underground production and development miners
+8232 Oil and gas well drillers, servicers, testers and related workers
+8241 Logging machinery operators
+8252 Agricultural service contractors, farm supervisors and specialized livestock workers
+8255 Contractors and supervisors, landscaping, grounds maintenance and horticulture services
+8261 Fishing masters and officers
+8262 Fishermen/women
+8411 Underground mine service and support workers
+8412 Oil and gas well drilling and related workers and services operators
+8421 Chain saw and skidder operators
+8422 Silviculture and forestry workers
+8431 General farm workers
+8432 Nursery and greenhouse workers
+8441 Fishing vessel deckhands
+8442 Trappers and hunters
+8611 Harvesting labourers
+8612 Landscaping and grounds maintenance labourers
+8613 Aquaculture and marine harvest labourers
+8614 Mine labourers
+8615 Oil and gas drilling, servicing and related labourers
+8616 Logging and forestry labourers

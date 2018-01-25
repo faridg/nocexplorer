@@ -1,0 +1,81 @@
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 5: parser error : AttValue: &quot; or ' expected in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;center&gt;&lt;p class=nml&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():                  ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 5: parser error : attributes construct error in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;center&gt;&lt;p class=nml&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():                  ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 5: parser error : Couldn't find end of Start Tag p line 5 in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;center&gt;&lt;p class=nml&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():                  ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 11: parser error : Opening and ending tag mismatch: br line 10 and p in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/p&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():     ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 12: parser error : AttValue: &quot; or ' expected in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;span class=w48&gt;&lt;p class=nml&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():             ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 12: parser error : attributes construct error in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;span class=w48&gt;&lt;p class=nml&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():             ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 12: parser error : Couldn't find end of Start Tag span line 12 in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;span class=w48&gt;&lt;p class=nml&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():             ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 12: parser error : AttValue: &quot; or ' expected in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;span class=w48&gt;&lt;p class=nml&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():                          ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 12: parser error : attributes construct error in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;span class=w48&gt;&lt;p class=nml&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():                          ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 12: parser error : Couldn't find end of Start Tag p line 12 in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;span class=w48&gt;&lt;p class=nml&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():                          ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 13: parser error : Entity 'eacute' not defined in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): 	Le site que vous tentez de visiter est pr&amp;eacute;sentement hors d'usage.&lt;br&gt;&lt;br in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): 	                                                 ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 14: parser error : Entity 'eacute' not defined in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): 	Veuillez r&amp;eacute;essayer plus tard.&lt;br&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): 	                  ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 15: parser error : Entity 'eacute' not defined in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): 	Vous pouvez &amp;eacute;galement essayez les sites minist&amp;eacute;riels: &lt;A HREF=&quot;ht in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): 	                    ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 15: parser error : Entity 'eacute' not defined in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): 	Vous pouvez &amp;eacute;galement essayez les sites minist&amp;eacute;riels: &lt;A HREF=&quot;ht in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): 	                                                             ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: br line 17 and p in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/p&gt;&lt;/center&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():     ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: br line 17 and center in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/p&gt;&lt;/center&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():              ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 19: parser error : Opening and ending tag mismatch: br line 14 and body in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/body&gt;&lt;/html&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():        ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 19: parser error : Opening and ending tag mismatch: br line 13 and html in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/body&gt;&lt;/html&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():               ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 19: parser error : Premature end of data in tag br line 13 in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/body&gt;&lt;/html&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():               ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 19: parser error : Premature end of data in tag br line 10 in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/body&gt;&lt;/html&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():               ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 19: parser error : Premature end of data in tag br line 7 in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/body&gt;&lt;/html&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():               ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 19: parser error : Premature end of data in tag br line 6 in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/body&gt;&lt;/html&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():               ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 19: parser error : Premature end of data in tag br line 6 in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/body&gt;&lt;/html&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():               ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 19: parser error : Premature end of data in tag center line 5 in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/body&gt;&lt;/html&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():               ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 19: parser error : Premature end of data in tag body line 4 in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/body&gt;&lt;/html&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():               ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 19: parser error : Premature end of data in tag html line 1 in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string(): &lt;/body&gt;&lt;/html&gt; in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[29-Oct-2017 11:11:33 UTC] PHP Warning:  simplexml_load_string():               ^ in /home/fargas/public_html/ontariojobs.org/class6/6511.php on line 111
+[22-Nov-2017 14:38:02 UTC] PHP Warning:  simplexml_load_string(): Entity: line 36: parser error : EntityRef: expecting ';' in /home/fargas/public_html/ontariojobs.org/class6/6332.php on line 111
+[22-Nov-2017 14:38:02 UTC] PHP Warning:  simplexml_load_string(): ;var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer1'?'&amp;l in /home/fargas/public_html/ontariojobs.org/class6/6332.php on line 111
+[22-Nov-2017 14:38:02 UTC] PHP Warning:  simplexml_load_string():                                                                                ^ in /home/fargas/public_html/ontariojobs.org/class6/6332.php on line 111

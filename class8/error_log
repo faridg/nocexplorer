@@ -1,0 +1,9 @@
+[06-Nov-2017 02:45:51 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Space required after the Public Identifier in /home/fargas/public_html/ontariojobs.org/class8/8255.php on line 111
+[06-Nov-2017 02:45:51 UTC] PHP Warning:  simplexml_load_string(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/fargas/public_html/ontariojobs.org/class8/8255.php on line 111
+[06-Nov-2017 02:45:51 UTC] PHP Warning:  simplexml_load_string():                                                  ^ in /home/fargas/public_html/ontariojobs.org/class8/8255.php on line 111
+[06-Nov-2017 02:45:51 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/fargas/public_html/ontariojobs.org/class8/8255.php on line 111
+[06-Nov-2017 02:45:51 UTC] PHP Warning:  simplexml_load_string(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/fargas/public_html/ontariojobs.org/class8/8255.php on line 111
+[06-Nov-2017 02:45:51 UTC] PHP Warning:  simplexml_load_string():                                                  ^ in /home/fargas/public_html/ontariojobs.org/class8/8255.php on line 111
+[06-Nov-2017 02:45:51 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/fargas/public_html/ontariojobs.org/class8/8255.php on line 111
+[06-Nov-2017 02:45:51 UTC] PHP Warning:  simplexml_load_string(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/fargas/public_html/ontariojobs.org/class8/8255.php on line 111
+[06-Nov-2017 02:45:51 UTC] PHP Warning:  simplexml_load_string():                                                  ^ in /home/fargas/public_html/ontariojobs.org/class8/8255.php on line 111

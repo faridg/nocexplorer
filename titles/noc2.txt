@@ -1,0 +1,62 @@
+2111 Physicists and astronomers
+2112 Chemists
+2113 Geoscientists and oceanographers
+2114 Meteorologists and climatologists
+2115 Other professional occupations in physical sciences
+2121 Biologists and related scientists
+2122 Forestry professionals
+2123 Agricultural representatives, consultants and specialists
+2131 Civil engineers
+2132 Mechanical engineers
+2133 Electrical and electronics engineers
+2134 Chemical engineers
+2141 Industrial and manufacturing engineers
+2142 Metallurgical and materials engineers
+2143 Mining engineers
+2144 Geological engineers
+2145 Petroleum engineers
+2146 Aerospace engineers
+2147 Computer engineers (except software engineers and designers)
+2148 Other professional engineers, n.e.c.
+2151 Architects
+2152 Landscape architects
+2153 Urban and land use planners
+2154 Land surveyors
+2161 Mathematicians, statisticians and actuaries
+2171 Information systems analysts and consultants
+2172 Database analysts and data administrators
+2173 Software engineers and designers
+2174 Computer programmers and interactive media developers
+2175 Web designers and developers
+2211 Chemical technologists and technicians
+2212 Geological and mineral technologists and technicians
+2221 Biological technologists and technicians
+2222 Agricultural and fish products inspectors
+2223 Forestry technologists and technicians
+2224 Conservation and fishery officers
+2225 Landscape and horticulture technicians and specialists
+2231 Civil engineering technologists and technicians
+2232 Mechanical engineering technologists and technicians
+2233 Industrial engineering and manufacturing technologists and technicians
+2234 Construction estimators
+2241 Electrical and electronics engineering technologists and technicians
+2242 Electronic service technicians (household and business equipment)
+2243 Industrial instrument technicians and mechanics
+2244 Aircraft instrument, electrical and avionics mechanics, technicians and inspectors
+2251 Architectural technologists and technicians
+2252 Industrial designers
+2253 Drafting technologists and technicians
+2254 Land survey technologists and technicians
+2255 Technical occupations in geomatics and meteorology
+2261 Non-destructive testers and inspection technicians
+2262 Engineering inspectors and regulatory officers
+2263 Inspectors in public and environmental health and occupational health and safety
+2264 Construction inspectors
+2271 Air pilots, flight engineers and flying instructors
+2272 Air traffic controllers and related occupations
+2273 Deck officers, water transport
+2274 Engineer officers, water transport
+2275 Railway traffic controllers and marine traffic regulators
+2281 Computer network technicians
+2282 User support technicians
+2283 Information systems testing technicians

@@ -1,0 +1,54 @@
+1111 Financial auditors and accountants
+1112 Financial and investment analysts
+1113 Securities agents, investment dealers and brokers
+1114 Other financial officers
+1121 Human resources professionals
+1122 Professional occupations in business management consulting
+1123 Professional occupations in advertising, marketing and public relations
+1211 Supervisors, general office and administrative support workers
+1212 Supervisors, finance and insurance office workers
+1213 Supervisors, library, correspondence and related information workers
+1214 Supervisors, mail and message distribution occupations
+1215 Supervisors, supply chain, tracking and scheduling co-ordination occupations
+1221 Administrative officers
+1222 Executive assistants
+1223 Human resources and recruitment officers
+1224 Property administrators
+1225 Purchasing agents and officers
+1226 Conference and event planners
+1227 Court officers and justices of the peace
+1228 Employment insurance, immigration, border services and revenue officers
+1241 Administrative assistants
+1242 Legal administrative assistants
+1243 Medical administrative assistants
+1251 Court reporters, medical transcriptionists and related occupations
+1252 Health information management occupations
+1253 Records management technicians
+1254 Statistical officers and related research support occupations
+1311 Accounting technicians and bookkeepers
+1312 Insurance adjusters and claims examiners
+1313 Insurance underwriters
+1314 Assessors, valuators and appraisers
+1315 Customs, ship and other brokers
+1411 General office support workers
+1414 Receptionists
+1415 Personnel clerks
+1416 Court clerks
+1422 Data entry clerks
+1423 Desktop publishing operators and related occupations
+1431 Accounting and related clerks
+1432 Payroll administrators
+1434 Banking, insurance and other financial clerks
+1435 Collectors
+1451 Library assistants and clerks
+1452 Correspondence, publication and regulatory clerks
+1454 Survey interviewers and statistical clerks
+1511 Mail, postal and related workers
+1512 Letter carriers
+1513 Couriers, messengers and door-to-door distributors
+1521 Shippers and receivers
+1522 Storekeepers and partspersons
+1523 Production logistics co-ordinators
+1524 Purchasing and inventory control workers
+1525 Dispatchers
+1526 Transportation route and crew schedulers

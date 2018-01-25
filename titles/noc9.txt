@@ -1,0 +1,71 @@
+9211 Supervisors, mineral and metal processing
+9212 Supervisors, petroleum, gas and chemical processing and utilities
+9213 Supervisors, food and beverage processing
+9214 Supervisors, plastic and rubber products manufacturing
+9215 Supervisors, forest products processing
+9217 Supervisors, textile, fabric, fur and leather products processing and manufacturing
+9221 Supervisors, motor vehicle assembling
+9222 Supervisors, electronics manufacturing
+9223 Supervisors, electrical products manufacturing
+9224 Supervisors, furniture and fixtures manufacturing
+9226 Supervisors, other mechanical and metal products manufacturing
+9227 Supervisors, other products manufacturing and assembly
+9231 Central control and process operators, mineral and metal processing
+9232 Central control and process operators, petroleum, gas and chemical processing
+9235 Pulping, papermaking and coating control operators
+9241 Power engineers and power systems operators
+9243 Water and waste treatment plant operators
+9411 Machine operators, mineral and metal processing
+9412 Foundry workers
+9413 Glass forming and finishing machine operators and glass cutters
+9414 Concrete, clay and stone forming operators
+9415 Inspectors and testers, mineral and metal processing
+9416 Metalworking and forging machine operators
+9417 Machining tool operators
+9418 Other metal products machine operators
+9421 Chemical plant machine operators
+9422 Plastics processing machine operators
+9423 Rubber processing machine operators and related workers
+9431 Sawmill machine operators
+9432 Pulp mill machine operators
+9433 Papermaking and finishing machine operators
+9434 Other wood processing machine operators
+9435 Paper converting machine operators
+9436 Lumber graders and other wood processing inspectors and graders
+9437 Woodworking machine operators
+9441 Textile fibre and yarn, hide and pelt processing machine operators and workers
+9442 Weavers, knitters and other fabric making occupations
+9445 Fabric, fur and leather cutters
+9446 Industrial sewing machine operators
+9447 Inspectors and graders, textile, fabric, fur and leather products manufacturing
+9461 Process control and machine operators, food and beverage processing
+9462 Industrial butchers and meat cutters, poultry preparers and related workers
+9463 Fish and seafood plant workers
+9465 Testers and graders, food and beverage processing
+9471 Plateless printing equipment operators
+9472 Camera, platemaking and other prepress occupations
+9473 Binding and finishing machine operators
+9474 Photographic and film processors
+9521 Aircraft assemblers and aircraft assembly inspectors
+9522 Motor vehicle assemblers, inspectors and testers
+9523 Electronics assemblers, fabricators, inspectors and testers
+9524 Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing
+9525 Assemblers, fabricators and inspectors, industrial electrical motors and transformers
+9526 Mechanical assemblers and inspectors
+9527 Machine operators and inspectors, electrical apparatus manufacturing
+9531 Boat assemblers and inspectors
+9532 Furniture and fixture assemblers and inspectors
+9533 Other wood products assemblers and inspectors
+9534 Furniture finishers and refinishers
+9535 Plastic products assemblers, finishers and inspectors
+9536 Industrial painters, coaters and metal finishing process operators
+9537 Other products assemblers, finishers and inspectors
+9611 Labourers in mineral and metal processing
+9612 Labourers in metal fabrication
+9613 Labourers in chemical products processing and utilities
+9614 Labourers in wood, pulp and paper processing
+9615 Labourers in rubber and plastic products manufacturing
+9616 Labourers in textile processing
+9617 Labourers in food and beverage processing
+9618 Labourers in fish and seafood processing
+9619 Other labourers in processing, manufacturing and utilities

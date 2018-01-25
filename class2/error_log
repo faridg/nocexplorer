@@ -1,0 +1,39 @@
+[19-Nov-2017 01:56:28 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Extra content at the end of the document in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[19-Nov-2017 01:56:28 UTC] PHP Warning:  simplexml_load_string(): &lt;body&gt;&lt;h1&gt;Object Moved&lt;/h1&gt;This object may be found &lt;a HREF=&quot;http://srv404.servi in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[19-Nov-2017 01:56:28 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[19-Nov-2017 16:39:09 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Extra content at the end of the document in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[19-Nov-2017 16:39:09 UTC] PHP Warning:  simplexml_load_string(): &lt;body&gt;&lt;h1&gt;Object Moved&lt;/h1&gt;This object may be found &lt;a HREF=&quot;http://srv404.servi in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[19-Nov-2017 16:39:09 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[19-Nov-2017 16:39:24 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Extra content at the end of the document in /home/fargas/public_html/ontariojobs.org/class2/2171.php on line 111
+[19-Nov-2017 16:39:24 UTC] PHP Warning:  simplexml_load_string(): &lt;body&gt;&lt;h1&gt;Object Moved&lt;/h1&gt;This object may be found &lt;a HREF=&quot;http://srv404.servi in /home/fargas/public_html/ontariojobs.org/class2/2171.php on line 111
+[19-Nov-2017 16:39:24 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/fargas/public_html/ontariojobs.org/class2/2171.php on line 111
+[19-Nov-2017 16:39:27 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Extra content at the end of the document in /home/fargas/public_html/ontariojobs.org/class2/2172.php on line 111
+[19-Nov-2017 16:39:27 UTC] PHP Warning:  simplexml_load_string(): &lt;body&gt;&lt;h1&gt;Object Moved&lt;/h1&gt;This object may be found &lt;a HREF=&quot;http://srv404.servi in /home/fargas/public_html/ontariojobs.org/class2/2172.php on line 111
+[19-Nov-2017 16:39:27 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/fargas/public_html/ontariojobs.org/class2/2172.php on line 111
+[19-Nov-2017 16:39:28 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Extra content at the end of the document in /home/fargas/public_html/ontariojobs.org/class2/2173.php on line 111
+[19-Nov-2017 16:39:28 UTC] PHP Warning:  simplexml_load_string(): &lt;body&gt;&lt;h1&gt;Object Moved&lt;/h1&gt;This object may be found &lt;a HREF=&quot;http://srv404.servi in /home/fargas/public_html/ontariojobs.org/class2/2173.php on line 111
+[19-Nov-2017 16:39:28 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/fargas/public_html/ontariojobs.org/class2/2173.php on line 111
+[19-Nov-2017 16:39:28 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Extra content at the end of the document in /home/fargas/public_html/ontariojobs.org/class2/2174.php on line 111
+[19-Nov-2017 16:39:28 UTC] PHP Warning:  simplexml_load_string(): &lt;body&gt;&lt;h1&gt;Object Moved&lt;/h1&gt;This object may be found &lt;a HREF=&quot;http://srv404.servi in /home/fargas/public_html/ontariojobs.org/class2/2174.php on line 111
+[19-Nov-2017 16:39:28 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/fargas/public_html/ontariojobs.org/class2/2174.php on line 111
+[19-Nov-2017 16:39:29 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Extra content at the end of the document in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[19-Nov-2017 16:39:29 UTC] PHP Warning:  simplexml_load_string(): &lt;body&gt;&lt;h1&gt;Object Moved&lt;/h1&gt;This object may be found &lt;a HREF=&quot;http://srv404.servi in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[19-Nov-2017 16:39:29 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[24-Nov-2017 19:40:33 UTC] PHP Warning:  simplexml_load_string(): Entity: line 36: parser error : EntityRef: expecting ';' in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[24-Nov-2017 19:40:33 UTC] PHP Warning:  simplexml_load_string(): ;var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer1'?'&amp;l in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[24-Nov-2017 19:40:33 UTC] PHP Warning:  simplexml_load_string():                                                                                ^ in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[24-Nov-2017 19:40:45 UTC] PHP Warning:  simplexml_load_string(): Entity: line 36: parser error : EntityRef: expecting ';' in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[24-Nov-2017 19:40:45 UTC] PHP Warning:  simplexml_load_string(): ;var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer1'?'&amp;l in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[24-Nov-2017 19:40:45 UTC] PHP Warning:  simplexml_load_string():                                                                                ^ in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[24-Nov-2017 19:41:12 UTC] PHP Warning:  simplexml_load_string(): Entity: line 36: parser error : EntityRef: expecting ';' in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[24-Nov-2017 19:41:12 UTC] PHP Warning:  simplexml_load_string(): ;var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer1'?'&amp;l in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[24-Nov-2017 19:41:12 UTC] PHP Warning:  simplexml_load_string():                                                                                ^ in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[27-Nov-2017 02:15:00 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Space required after the Public Identifier in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[27-Nov-2017 02:15:00 UTC] PHP Warning:  simplexml_load_string(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[27-Nov-2017 02:15:00 UTC] PHP Warning:  simplexml_load_string():                                                  ^ in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[27-Nov-2017 02:15:00 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[27-Nov-2017 02:15:00 UTC] PHP Warning:  simplexml_load_string(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[27-Nov-2017 02:15:00 UTC] PHP Warning:  simplexml_load_string():                                                  ^ in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[27-Nov-2017 02:15:00 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[27-Nov-2017 02:15:00 UTC] PHP Warning:  simplexml_load_string(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111
+[27-Nov-2017 02:15:00 UTC] PHP Warning:  simplexml_load_string():                                                  ^ in /home/fargas/public_html/ontariojobs.org/class2/2175.php on line 111

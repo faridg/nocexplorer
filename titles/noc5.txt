@@ -1,0 +1,33 @@
+5111 Librarians
+5112 Conservators and curators
+5113 Archivists
+5121 Authors and writers
+5122 Editors
+5123 Journalists
+5125 Translators, terminologists and interpreters
+5131 Producers, directors, choreographers and related occupations
+5132 Conductors, composers and arrangers
+5133 Musicians and singers
+5134 Dancers
+5135 Actors and comedians
+5136 Painters, sculptors and other visual artists
+5211 Library and public archive technicians
+5212 Technical occupations related to museums and art galleries
+5221 Photographers
+5222 Film and video camera operators
+5223 Graphic arts technicians
+5224 Broadcast technicians
+5225 Audio and video recording technicians
+5226 Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts
+5227 Support occupations in motion pictures, broadcasting, photography and the performing arts
+5231 Announcers and other broadcasters
+5232 Other performers, n.e.c.
+5241 Graphic designers and illustrators
+5242 Interior designers and interior decorators
+5243 Theatre, fashion, exhibit and other creative designers
+5244 Artisans and craftspersons
+5245 Patternmakers - textile, leather and fur products
+5251 Athletes
+5252 Coaches
+5253 Sports officials and referees
+5254 Program leaders and instructors in recreation, sport and fitness
